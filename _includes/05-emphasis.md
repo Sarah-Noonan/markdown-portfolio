@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Sarah Noonan** is a skilled professional in the arenas of *project management, data analysis, marketing and business development and research and insights reporting.*
